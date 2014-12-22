@@ -36,11 +36,15 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-The complaint of peace. Wryten in Latyn, by the famous clerke, Erasimus [sic] Roterodamus. And nuely
+
+1. ¶ To the Ryghte Honorable Lorde Antonie Uicounte Momtegue, Knyght of the Right Honorable order of the Garter.
+
 #####Body#####
-The complaint of peace. Wryten in Latyn, by the famous clerke, Erasimus [sic] Roterodamus. And nuely
+
+1. ¶The complainte of Peace.
+
 #####Back#####
-The complaint of peace. Wryten in Latyn, by the famous clerke, Erasimus [sic] Roterodamus. And nuely
+¶IMPRINTED AT London, in Paules Churchyard, by Ihon Cawoode, one of the Prynters to the Quenes Maies
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
